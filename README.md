@@ -4,9 +4,9 @@ I am a Graduate Research Assistant at Clemson University in the School of Comput
 
 To contact me or locate me on other platforms, visit my [website](https://tlranda.people.clemson.edu).
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlranda&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlranda&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark)](https://github.com/tlranda?tab=repositories)
 
-[![Languages card](https://github-readme-stats.vercel.app/api/top-langs?username=tlranda&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages card](https://github-readme-stats.vercel.app/api/top-langs?username=tlranda&layout=compact&theme=github_dark)](https://github.com/tlranda?tab=repositories)
 
 ## Highlighted Work
 
