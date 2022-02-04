@@ -29,6 +29,8 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
   
   [![SpireArena](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=SpireArena&show_owner=true&theme=github_dark)](https://github.com/tlranda/SpireArena)
   
+  [![wordlePuzzles](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=wordlePuzzles&show_owner=true&theme=github_dark)](https://github.com/tlranda/wordlePuzzles)
+  
   <!-- Ahhh you're a sneaky raw-content viewer? These ones are private, but should become public in the future!!
   [![PyLatex](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=PyLatex&show_owner=true&theme=github_dark)](https://github.com/tlranda/PyLatex)
   [![sts-modding](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=sts-modding&show_owner=true&theme=github_dark)](https://github.com/tlranda/sts-modding)
