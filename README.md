@@ -17,7 +17,7 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
   
   [![FULL-W2V](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=FULL-W2V&show_owner=true&theme=github_dark)](https://github.com/tlranda/FULL-W2V)
     
-  [![Papers](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=Papers&show_owner=true&theme=github_dark)](https://github.com/tlranda/Papers)
+  <!-- Removed until a non-illegal version can be shared publicly (not a valid redistributor of these works plz don't axe my github account) [![Papers](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=Papers&show_owner=true&theme=github_dark)](https://github.com/tlranda/Papers) -->
 
   The Papers repository tracks my (more or less) current reading list as well as other papers I've looked into. Organization comes and goes here, but you're welcome to join me in reviewing these papers!
 
