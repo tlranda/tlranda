@@ -1,6 +1,6 @@
-### TODO: Create a Unique, Witty Title that Draws Attention
+### Welcome! My name is Thomas Randall!
 
-I am a Graduate Research Assistant at Clemson University in the School of Computing (Go Tigers! 🐯). I work on scalable High Performance Computing applications, specifically in the intersection of (GPU) accelerators and deep learning processes. I am currently working towards my PhD dissertation and am highly interested in research involving Graph Neural Networks 📈 and Natural Language Processing 📚.
+I am a Graduate Research Assistant at Clemson University in the School of Computing (Go Tigers! 🐯). I work on scalable High Performance Computing applications, specifically in the intersection of (GPU) accelerators and deep learning processes. Currently, I am working towards my PhD dissertation and am highly interested in research involving Graph Neural Networks 📈 and Natural Language Processing 📚.
 
 To contact me or locate me on other platforms, visit my [website](https://tlranda.people.clemson.edu).
 
