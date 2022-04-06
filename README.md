@@ -27,6 +27,8 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
   <summary><samp>&#9776;</samp> All (Public) Personal Projects</summary>
   These are fun things I ocassionally contribute to in my spare time.
   
+  [![PiDay-MathCodeGolf](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=PiDay-MathCodeGolf&show_owner=true&theme=github_dark)](https://github.com/tlranda/PiDay-MathCodeGolf)
+  
   [![SpireArena](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=SpireArena&show_owner=true&theme=github_dark)](https://github.com/tlranda/SpireArena)
   
   [![wordlePuzzles](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=wordlePuzzles&show_owner=true&theme=github_dark)](https://github.com/tlranda/wordlePuzzles)
