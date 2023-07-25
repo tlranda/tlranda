@@ -1,6 +1,10 @@
 ### Welcome! My name is Thomas Randall!
 
-I am a Graduate Research Assistant at Clemson University in the School of Computing (Go Tigers! 🐯). I work on scalable High Performance Computing applications, specifically in the intersection of (GPU) accelerators and deep learning processes. Currently, I am working towards my PhD dissertation and am highly interested in research involving Graph Neural Networks 📈 and Natural Language Processing 📚.
+I am a Graduate Research Assistant at Clemson University in the School of Computing (Go Tigers! 🐯).
+My research focuses on performance optimization and autotuning for High Performance Computing (HPC) workloads and applications, especially with GPUs!
+I am working towards my PhD dissertation at Clemson and have published research with scientists at Argonne National Laboratory.
+You can also regularly meet me in person at the SuperComputing conference -- I'll be a Lead Student Volunteer at Denver in 2023, come say hi!
+My long-term career aspirations are to work as a Computer Scientist in the National Labs and to continue serving the community at SuperComputing and other prestigous conferences in the field.
 
 To contact me or locate me on other platforms, visit my [website](https://tlranda.people.clemson.edu).
 
@@ -10,16 +14,17 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
 
 ## Highlighted Work
 
-[![FULL-W2V](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=FULL-W2V&show_owner=true&theme=github_dark)](https://github.com/tlranda/FULL-W2V)
+[![GC-TLA](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_TLA&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_TLA)
 
 <details>
   <summary><samp>&#9776;</samp> All Academic Works</summary>
+
+  [![GC-TLA](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_TLA&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_TLA)
   
   [![FULL-W2V](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=FULL-W2V&show_owner=true&theme=github_dark)](https://github.com/tlranda/FULL-W2V)
     
   <!-- Removed until a non-illegal version can be shared publicly (not a valid redistributor of these works plz don't axe my github account) [![Papers](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=Papers&show_owner=true&theme=github_dark)](https://github.com/tlranda/Papers) -->
-
-  The Papers repository tracks my (more or less) current reading list as well as other papers I've looked into. Organization comes and goes here, but you're welcome to join me in reviewing these papers!
+  <!-- The Papers repository tracks my (more or less) current reading list as well as other papers I've looked into. Organization comes and goes here, but you're welcome to join me in reviewing these papers! -->
 
 </details>
 
