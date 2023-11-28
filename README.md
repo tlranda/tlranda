@@ -29,8 +29,18 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
 </details>
 
 <details>
+  <summary><samp>&#9776;</samp> Public Academic Works In Progress</summary>
+
+  [![GC-GNN](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_GNN&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_GNN)
+
+  [![LibSensorTools](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LibSensorsTools&show_owner=true&theme=github_dark)](https://github.com/tlranda/LibSensorsTools)
+</details>
+
+<details>
   <summary><samp>&#9776;</samp> All (Public) Personal Projects</summary>
   These are fun things I ocassionally contribute to in my spare time.
+
+  [![Personal Website](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=tlranda.github.io&show_owner=true&theme=github_dark)](https://github.com/tlranda/tlranda.github.io)
   
   [![PiDay-MathCodeGolf](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=PiDay-MathCodeGolf&show_owner=true&theme=github_dark)](https://github.com/tlranda/PiDay-MathCodeGolf)
   
