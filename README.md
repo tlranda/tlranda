@@ -6,7 +6,7 @@ I am working towards my PhD dissertation at Clemson and have published research 
 You can also regularly meet me in person at the SuperComputing conference -- I'll be a Lead Student Volunteer at Denver in 2023, come say hi!
 My long-term career aspirations are to work as a Computer Scientist in the National Labs and to continue serving the community at SuperComputing and other prestigous conferences in the field.
 
-To contact me or locate me on other platforms, visit my [website](https://tlranda.people.clemson.edu).
+To contact me or locate me on other platforms, visit my [website](https://tlranda.github.io).
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlranda&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark)](https://github.com/tlranda?tab=repositories)
 
