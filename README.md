@@ -14,10 +14,12 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
 
 ## Highlighted Work
 
-[![GC-TLA](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_TLA&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_TLA)
+[![LibSensorsTools](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LibSensorsTools&show_owner=true&theme=github_dark)](https://github.com/tlranda/LibSensorsTools)
 
 <details>
   <summary><samp>&#9776;</samp> All Academic Works</summary>
+
+  [![LibSensorTools](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LibSensorsTools&show_owner=true&theme=github_dark)](https://github.com/tlranda/LibSensorsTools)
 
   [![GC-TLA](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_TLA&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_TLA)
   
@@ -31,9 +33,9 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
 <details>
   <summary><samp>&#9776;</samp> Public Academic Works In Progress</summary>
 
-  [![GC-GNN](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_GNN&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_GNN)
+  [![TetraGPU](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=TetraGPU&show_owner=true&theme=github_dark)](https://github.com/tlranda/TetraGPU)
 
-  [![LibSensorTools](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LibSensorsTools&show_owner=true&theme=github_dark)](https://github.com/tlranda/LibSensorsTools)
+  [![GC-GNN](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=GC_GNN&show_owner=true&theme=github_dark)](https://github.com/tlranda/GC_GNN)
 </details>
 
 <details>
@@ -41,6 +43,8 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
   These are fun things I ocassionally contribute to in my spare time.
 
   [![Personal Website](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=tlranda.github.io&show_owner=true&theme=github_dark)](https://github.com/tlranda/tlranda.github.io)
+
+  [![Knowledge](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=Knowledge&show_owner=true&theme=github_dark)](https://github.com/tlranda/Knowledge)
   
   [![PiDay-MathCodeGolf](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=PiDay-MathCodeGolf&show_owner=true&theme=github_dark)](https://github.com/tlranda/PiDay-MathCodeGolf)
   
