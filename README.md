@@ -1,12 +1,9 @@
 ### Welcome! My name is Thomas Randall!
 
-I am a Graduate Research Assistant at Clemson University in the School of Computing (Go Tigers! 🐯).
+I have a PhD in Computer Science from Clemson University (Go Tigers! 🐯).
 My research focuses on performance optimization and autotuning for High Performance Computing (HPC) workloads and applications, especially with GPUs!
-I am working towards my PhD dissertation at Clemson and have published research with scientists at Argonne National Laboratory.
-You can also regularly meet me in person at the SuperComputing conference -- I'll be at SC24 in Atlanta, come say hi!
-My long-term career aspirations are to work as a Computer Scientist in the National Labs and to continue serving the community at SuperComputing and other prestigous conferences in the field.
-
-To contact me or locate me on other platforms, visit my [website](https://tlranda.github.io).
+I'm also interested in Natural Language Processing a la Word2Vec and Transformers/LLMs.
+For contact information, other platforms, and the latest on my research, please refer to my [website](https://tlranda.github.io) (mostly so that I don't have to update this and every other page linking to it all the time).
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlranda&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark)](https://github.com/tlranda?tab=repositories)
 
@@ -14,10 +11,14 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
 
 ## Highlighted Work
 
-[![LibSensorsTools](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LibSensorsTools&show_owner=true&theme=github_dark)](https://github.com/tlranda/LibSensorsTools)
+[![LM-Peel](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LM-Peel&show_owner=true&theme=github_dark)](https://github.com/tlranda/LM-Peel)
 
 <details>
   <summary><samp>&#9776;</samp> All Academic Works</summary>
+
+  [![LM-Peel](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LM-Peel&show_owner=true&theme=github_dark)](https://github.com/tlranda/LM-Peel)
+
+  [![LM-Math](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=lm_math&show_owner=true&theme=github_dark)](https://github.com/tlranda/lm_math)
 
   [![LibSensorTools](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=LibSensorsTools&show_owner=true&theme=github_dark)](https://github.com/tlranda/LibSensorsTools)
 
@@ -42,9 +43,9 @@ To contact me or locate me on other platforms, visit my [website](https://tlrand
   <summary><samp>&#9776;</samp> All (Public) Personal Projects</summary>
   These are fun things I ocassionally contribute to in my spare time.
 
-  [![Personal Website](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=tlranda.github.io&show_owner=true&theme=github_dark)](https://github.com/tlranda/tlranda.github.io)
-
   [![Knowledge](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=Knowledge&show_owner=true&theme=github_dark)](https://github.com/tlranda/Knowledge)
+
+  [![Personal Website](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=tlranda.github.io&show_owner=true&theme=github_dark)](https://github.com/tlranda/tlranda.github.io)
   
   [![PiDay-MathCodeGolf](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=PiDay-MathCodeGolf&show_owner=true&theme=github_dark)](https://github.com/tlranda/PiDay-MathCodeGolf)
   
