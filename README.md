@@ -43,6 +43,8 @@ For contact information, other platforms, and the latest on my research, please 
   <summary><samp>&#9776;</samp> All (Public) Personal Projects</summary>
   These are fun things I ocassionally contribute to in my spare time.
 
+  [![dotfiles](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=dotfiles&show_owner=true&theme=github_dark)](https://github.com/tlranda/dotfiles)
+
   [![Knowledge](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=Knowledge&show_owner=true&theme=github_dark)](https://github.com/tlranda/Knowledge)
 
   [![Personal Website](https://github-readme-stats.vercel.app/api/pin?username=tlranda&repo=tlranda.github.io&show_owner=true&theme=github_dark)](https://github.com/tlranda/tlranda.github.io)
